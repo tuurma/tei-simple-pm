@@ -785,7 +785,7 @@
                                 <outputRendition scope="before">content: '[...]';</outputRendition>
                             </model>
                         </elementSpec>
-                        <elementSpec mode="change" ident="gi">
+                        <elementSpec mode="add" ident="gi">
                             <model behaviour="inline">
                                 <outputRendition scope="before">content:"&lt;";</outputRendition>
                                 <outputRendition scope="after">content:"&gt;";</outputRendition>
